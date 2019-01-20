@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Download or close the repo to access the files to play the game.  Load the index.html file in your browser.
+Download or close the repo to access the files to load the page.  Open the index.html file in your browser.
 
 
 ## Usage
